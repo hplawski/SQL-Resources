@@ -1,5 +1,5 @@
 # SQL-Resources
--F R E E- Resources I used to learn SQL with no prior knowledge. 
+<h2>-F R E E- Resources I used to learn SQL with no prior knowledge.</h2>
 
 
 📚 YouTube
