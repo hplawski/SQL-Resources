@@ -4,8 +4,8 @@
 
 📚 YouTube
 1. Alex Freberg ✓✓✓
-• Basic - https://lnkd.in/gEPqCqUh
-• Intermediate - https://lnkd.in/g_sYJgw3
+<br>• Basic - https://lnkd.in/gEPqCqUh
+<br>• Intermediate - https://lnkd.in/g_sYJgw3</br>
 • Advanced - https://lnkd.in/gzt72UdA
 2. Programming with Mosh ✓✓✓ - 3-hour Course - https://lnkd.in/gAiZwfQQ
 3. freeCodeCamp - 4-hour Course  - https://lnkd.in/gH9tYvsx
@@ -13,8 +13,8 @@
 
 
 📚 Courses
-1. Udacity SQL for Data Analysis ✓✓✓ - https://lnkd.in/gzsyYZs4
-2 Danny Ma's SQL Masterclass Course ✓✓✓ - https://lnkd.in/ge7zyWzu
+<br>1. Udacity SQL for Data Analysis ✓✓✓ - https://lnkd.in/gzsyYZs4
+<br>2 Danny Ma's SQL Masterclass Course ✓✓✓ - https://lnkd.in/ge7zyWzu</br>
 
 
 📚 Daily Practice
